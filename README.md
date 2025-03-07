@@ -1,9 +1,16 @@
 # PROYECTO-FINAL
 COLSEED
 
-Faryd walteros
-David leon
-juan melendez
-juan gomez
-jaime ramon
-julian marin
+David Santiago Leon
+
+Julian David Marin
+
+Faryd Walteros
+
+Juan Melendez
+
+Juan Gomez
+
+Jaime Ramon
+
+Julian Marin
