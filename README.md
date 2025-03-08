@@ -1,5 +1,4 @@
 # PROYECTO-FINAL
-COLSEED
 
 David Santiago Leon
 
